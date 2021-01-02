@@ -1,0 +1,2 @@
+# glitter-cursor
+Wonderful glitter
